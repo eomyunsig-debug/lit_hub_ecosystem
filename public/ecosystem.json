@@ -96,6 +96,25 @@
       "official": false
     },
     {
+      "slug": "beta-fund",
+      "name": "Beta fund",
+      "description": "On-chain quant fund - raises AUM from trading fees and distributes 100% of profits to holders",
+      "url": "https://www.beta.fund/",
+      "twitter": "@betadotfund",
+      "discord": "",
+      "telegram": "",
+      "logo": "/logos/beta-fund_logo.png",
+      "categories": [
+        "Apps"
+      ],
+      "status": "Live",
+      "createdAt": "2026-09-06",
+      "official": false,
+      "builderDiscords": [
+        "butlertrades"
+      ]
+    },
+    {
       "slug": "bleeep",
       "name": "BLEEEP",
       "description": "Provable trading on Lighter.",
@@ -1546,5 +1565,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-09-02T17:02:31.266Z"
+  "generatedAt": "2026-09-06T11:04:55.909Z"
 }
