@@ -200,6 +200,23 @@
       "official": false
     },
     {
+      "slug": "bull",
+      "name": "BULL",
+      "description": "Non-custodial Lighter and Hyperliquid trading terminal with continuous, pad-controlled split orders.",
+      "url": "https://bullterminal.app/",
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "logo": "/logos/bull_logo.png",
+      "categories": [
+        "Terminal",
+        "Apps"
+      ],
+      "status": "Live",
+      "createdAt": "2026-09-07",
+      "official": false
+    },
+    {
       "slug": "ccxt",
       "name": "CCXT",
       "description": "",
@@ -1565,5 +1582,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-09-06T11:04:55.909Z"
+  "generatedAt": "2026-09-07T13:09:34.611Z"
 }

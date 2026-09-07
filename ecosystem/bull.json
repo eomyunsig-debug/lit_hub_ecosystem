@@ -1,0 +1,16 @@
+{
+  "name": "BULL",
+  "description": "Non-custodial Lighter and Hyperliquid trading terminal with continuous, pad-controlled split orders.",
+  "url": "https://bullterminal.app/",
+  "twitter": "",
+  "discord": "",
+  "telegram": "",
+  "logo": "/logos/bull_logo.png",
+  "categories": [
+    "Terminal",
+    "Apps"
+  ],
+  "status": "Live",
+  "createdAt": "2026-09-07",
+  "official": false
+}
