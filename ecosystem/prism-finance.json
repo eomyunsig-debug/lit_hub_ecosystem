@@ -1,0 +1,20 @@
+{
+  "name": "Prism Finance",
+  "description": "Prism Finance is an all in one trading platform offering leverage and spot through Lighter and Uniswap.",
+  "url": "https://www.prismfinance.net",
+  "twitter": "@TradeOnPrism",
+  "discord": "",
+  "telegram": "",
+  "integratorAccountIndex": 779,
+  "logo": "/logos/prism-finance_logo.png",
+  "categories": [
+    "Terminal",
+    "Apps"
+  ],
+  "status": "Live",
+  "createdAt": "2026-09-07",
+  "official": false,
+  "builderDiscords": [
+    "visionsXBT"
+  ]
+}
