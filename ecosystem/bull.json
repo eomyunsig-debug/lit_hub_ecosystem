@@ -1,7 +1,7 @@
 {
   "name": "BULL",
-  "description": "Non-custodial Lighter and Hyperliquid trading terminal with continuous, pad-controlled split orders.",
-  "url": "https://bullterminal.app/",
+  "description": "Non-custodial perp terminal for Lighter and Hyperliquid. Control split-order direction and pace with a two-thumb pad.",
+  "url": "https://bullterminal.app/?lang=en-US",
   "twitter": "",
   "discord": "",
   "telegram": "",
