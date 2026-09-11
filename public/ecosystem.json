@@ -1184,6 +1184,27 @@
       "official": false
     },
     {
+      "slug": "prism-finance",
+      "name": "Prism Finance",
+      "description": "Prism Finance is an all in one trading platform offering leverage and spot through Lighter and Uniswap.",
+      "url": "https://www.prismfinance.net",
+      "twitter": "@TradeOnPrism",
+      "discord": "",
+      "telegram": "",
+      "integratorAccountIndex": 779,
+      "logo": "/logos/prism-finance_logo.png",
+      "categories": [
+        "Terminal",
+        "Apps"
+      ],
+      "status": "Live",
+      "createdAt": "2026-09-07",
+      "official": false,
+      "builderDiscords": [
+        "visionsXBT"
+      ]
+    },
+    {
       "slug": "project-vex",
       "name": "Project:VEX",
       "description": "Local first, self custodial AI agent runtime for secure, autonomous on chain finance.",
@@ -1582,5 +1603,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-09-11T09:03:03.669Z"
+  "generatedAt": "2026-09-11T09:07:28.018Z"
 }
